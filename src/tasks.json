@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "go for a run",
+    "status": "done",
+    "createdAt": "2025-08-02 04:36:49",
+    "updatedAt": "2025-08-02 05:43:12"
+  },
+  {
+    "id": 2,
+    "description": "take a shower",
+    "status": "in-progress",
+    "createdAt": "2025-08-02 04:49:23",
+    "updatedAt": "2025-08-02 05:46:00"
+  },
+  {
+    "id": 3,
+    "description": "have breakfast",
+    "status": "todo",
+    "createdAt": "2025-08-02 05:45:16",
+    "updatedAt": "2025-08-02 05:45:16"
+  }
+]
